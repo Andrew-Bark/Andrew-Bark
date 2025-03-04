@@ -6,6 +6,12 @@ I specialize in building **interactive, data-driven applications** with a strong
 
 ## 🚀 Projects  
 
+
+### 🔹 [Lilia](https://lilia.app) – An **AI-powered language learning app** that adapts to users’ conversation styles.  
+- Designed and developed **[lilia.app](https://lilia.app)** from the ground up with **Next.js, React, Tailwind CSS, and shadcn/ui**.  
+- Implemented **AI-driven chat interactions**, dynamic translations, and **correction features** using OpenAI’s models.  
+- Built a **Chrome extension** for instant translations, synonyms, and examples, integrating **Express and MongoDB**.  
+
 ### 🔹 Uplift – A mood and activity tracker with powerful data analysis and visualization tools.  
 - Designed and implemented **interactive charts** to track user mood trends and custom data insights.  
 - Built accessible and responsive **data visualization features** supporting **3 chart types** and **15+ activity data points**.  
@@ -15,11 +21,6 @@ I specialize in building **interactive, data-driven applications** with a strong
 - Refactored and modularized **30+ components** for better maintainability and scalability.  
 - Developed **two major features**, enhancing user experience with additional visual feedback.  
 - Built and integrated **8 reusable UI components** to streamline development.  
-
-### 🔹 [Lilia](https://lilia.app) – An **AI-powered language learning app** that adapts to users’ conversation styles.  
-- Designed and developed **[lilia.app](https://lilia.app)** from the ground up with **Next.js, React, Tailwind CSS, and shadcn/ui**.  
-- Implemented **AI-driven chat interactions**, dynamic translations, and **correction features** using OpenAI’s models.  
-- Built a **Chrome extension** for instant translations, synonyms, and examples, integrating **Express and MongoDB**.  
 
 ---
 
