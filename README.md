@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm a Software Engineer based in Berlin 
 
+[Visit My Website](https://andrew-bark.com)
+
 I specialize in building **interactive, data-driven applications** with a strong focus on **frontend development, UI/UX, and scalable architectures**. Whether it's crafting engaging user experiences, optimizing performance, or ensuring data integrity, I love turning complex ideas into functional, well-designed products.  
 
 ---
